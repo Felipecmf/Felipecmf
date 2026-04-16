@@ -26,6 +26,9 @@
 
 ## 📊 Stats
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=Felipecmf&theme=dark&hide_border=true&locale=pt_BR&short_numbers=true)](https://git.io/streak-stats" />
+</div>
 
 
 ---
