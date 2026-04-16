@@ -35,4 +35,3 @@
 - 💼 LinkedIn: https://www.linkedin.com/in/felipe-fernandes-126887266/
 - 📧 Email: felipefernandes2547@gmail.com
 
-<p align="center"><b>⚡discipline overcomes talent ⚡</b></p>
