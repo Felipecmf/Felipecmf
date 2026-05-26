@@ -16,8 +16,6 @@
   <i>“O impossível é só questão de opinião”</i>
 </p>
 
---
-
 ## 🧠 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**
