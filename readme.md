@@ -5,6 +5,7 @@
 - 🌍 Inglês **B2**
 <p align="center"> <img src="https://i.pinimg.com/1200x/2d/55/0b/2d550bb9414c49cfd655a357c8cbe5d6.jpg" width="600" alt="Kaiser"/> </p> 
 <p align="center"> <i>“O impossível é só questão de opinião”</i> </p>
+
 ### 💻 Tecnologias
 
 <p>
