@@ -7,6 +7,6 @@
 ### 💻 Tecnologias
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,mysql,git" />
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,mysql,git,html,css" />
 </p>
 
