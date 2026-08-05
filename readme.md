@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=header"/>
+
 ## 🧠 Sobre mim
 
 - 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na **FIAP**
@@ -12,3 +14,4 @@
   <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,mysql,git,html,css" />
 </p>
 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer"/>
