@@ -12,7 +12,11 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,mysql,git,html,css" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipecmf&layout=compact&langs_count=8&theme=tokyonight"/>
+</p>
+<p align="center">
+  <img src="https://github-readme-stats-six-zeta-87.vercel.app/api/?username=Felipecmf&layout=compact&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&show=prs_merged&cache_seconds=1800" width="387"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github-readme-stats-six-zeta-87.vercel.app/api/top-langs/?username=Felipecmf&layout=compact&show_icons=true&theme=dracula&langs_count=6&count_private=true&cache_seconds=1800" width="390"/>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer"/>
