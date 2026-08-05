@@ -12,6 +12,7 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,javascript,typescript,mysql,git,html,css" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipecmf&layout=compact&langs_count=8&theme=tokyonight"/>
 </p>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=58a6ff&height=100&section=footer"/>
